@@ -2,14 +2,13 @@
 ## I'm SUJI HONG, FE DEV! Just call me SUJI 😄  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorangSuji&theme=graywhite&show_icons=true)
 ## 📌 Activity
-| **Date**                     | **Project Name**                | **Description**                        |
-|------------------------------|---------------------------------|----------------------------------------|
-| **2024.03.20 - 2024.11.28**  | 🦁 LikeLion 12th | Frong-End developer |
-| **2024.04.04 - 2024.05.30**  | 🔔 LikeLion 1st semester MiniProject DingDong | Club Management Web Application |
-| **2024.07.09 - 2024.07.12**  | 📝 2024 Summer OpenSourceSW Devo | GitHub Integration Issue Note Web Service for Developers |
-| **2024.06.30 - 2024.08.07**	 | 👟 2024 LikeLion 12th Hackathon RunWithMate | Exercise Game Web Application for Healthy Dopamine |
-| **2024.10.03 - 2024.11.28**	 | 👩‍💻 LikeLion 2th semester MiniProject devBreak | A developer blog service that supports GitHub |
-
+| **Date**                     | **Project Name**                |
+|------------------------------|---------------------------------|
+| **2024.03.20 - 2024.11.28**  | 🦁 LikeLion 12th |
+| **2024.04.04 - 2024.05.30**  | 🔔 LikeLion 1st semester MiniProject DingDong |
+| **2024.07.09 - 2024.07.12**  | 📝 2024 Summer OpenSourceSW Devo |
+| **2024.06.30 - 2024.08.07**	 | 👟 2024 LikeLion 12th Hackathon RunWithMate |
+| **2024.10.03 - 2024.11.28**	 | 👩‍💻 LikeLion 2th semester MiniProject devBreak |
 ---
 
 ## 📦 Toolbox
