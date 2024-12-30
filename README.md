@@ -1,5 +1,5 @@
 # Hi there 👋  
-## I'm SUJI HONG, FE DEV! Just call me SUJI 😄  
+## I am FE DEv, and please call me SUJI 😄  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorangSuji&theme=graywhite&show_icons=true)
 ## 📌 Activity
 | **Date**                     | **Project Name**                |
