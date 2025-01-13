@@ -5,10 +5,10 @@
 | **Date**                     | **Project Name**                    | **Description**                                          |
 |------------------------------|-------------------------------------|----------------------------------------------------------|
 | **2024.03.20 - 2024.11.28**  | 🦁 LikeLion 12th                    | Practical experience in developing various web services. |
-| **2024.04.04 - 2024.05.30**  | 🔔 LikeLion 1st semester MiniProject DingDong | Development of a club management web service.             |
-| **2024.07.09 - 2024.07.12**  | 📝 2024 Summer OpenSourceSW Devo    | Development of a GitHub issue-based memo web service.     |
-| **2024.06.30 - 2024.08.07**  | 👟 2024 LikeLion 12th Hackathon RunWithMate | Development of a location-based exercise game web app.    |
-| **2024.10.03 - 2024.11.28**  | 👩‍💻 LikeLion 2th semester MiniProject devBreak | Development of a GitHub repository-based tech blog platform. |
+| **2024.04.04 - 2024.05.30**  | 🔔 LikeLion 1st semester MiniProject DingDong | a club management web service.             |
+| **2024.07.09 - 2024.07.12**  | 📝 2024 Summer OpenSourceSW Devo    | a GitHub issue-based memo web service.     |
+| **2024.06.30 - 2024.08.07**  | 👟 2024 LikeLion 12th Hackathon RunWithMate | a location-based exercise game web app.    |
+| **2024.10.03 - 2024.11.28**  | 👩‍💻 LikeLion 2th semester MiniProject devBreak | a GitHub repository-based tech blog platform. |
 ---
 
 ## 📦 My ToolBox
