@@ -1,5 +1,5 @@
 # Hi there 👋  
-## I am FE DEv, and please call me SUJI 😄  
+## I am FE Dev, please call me SUJI 😄  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorangSuji&theme=graywhite&show_icons=true)
 ## 📌 Activity
 | **Date**                     | **Project Name**                |
@@ -11,7 +11,7 @@
 | **2024.10.03 - 2024.11.28**	 | 👩‍💻 LikeLion 2th semester MiniProject devBreak |
 ---
 
-## 📦 Toolbox
+## 📦 My ToolBox
 
 ### 👩‍💻 Front-End
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white">
