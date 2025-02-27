@@ -4,11 +4,12 @@
 ## 📌 Activity
 | **Date**                     | **Project Name**                    | **Description**                                          |
 |------------------------------|-------------------------------------|----------------------------------------------------------|
-| **2024.03.20 - 2024.11.28**  | 🦁 LikeLion 12th                    | Practical experience in developing various web services. |
-| **2024.04.04 - 2024.05.30**  | 🔔 LikeLion 1st semester MiniProject DingDong | a club management web service.             |
-| **2024.07.09 - 2024.07.12**  | 📝 2024 Summer OpenSourceSW Devo    | a GitHub issue-based memo web service.     |
-| **2024.06.30 - 2024.08.07**  | 👟 2024 LikeLion 12th Hackathon RunWithMate | a location-based exercise game web app.    |
-| **2024.10.03 - 2024.11.28**  | 👩‍💻 LikeLion 2th semester MiniProject devBreak | a GitHub repository-based tech blog platform. |
+| **2024.03.20 - 2024.11.28**  | 🦁 [LikeLion 12th](https://github.com/LikeLion-12th) | Practical experience in developing various web services. |
+| **2024.04.04 - 2024.05.30**  | 🔔 [LikeLion 1st semester MiniProject DingDong](https://github.com/LikeLion-12th/DingDong) | A club management web service. |
+| **2024.07.09 - 2024.07.12**  | 📝 [2024 Summer OpenSourceSW Devo](https://github.com/OpenSourceSW-Devo) | A GitHub issue-based memo web service. |
+| **2024.06.30 - 2024.08.07**  | 👟 [2024 LikeLion 12th Hackathon RunWithMate](https://github.com/LikeLion-12th/RunWithMate) | A location-based exercise game web app. |
+| **2024.10.03 - 2024.11.28**  | 👩‍💻 [LikeLion 2nd semester MiniProject devBreak](https://github.com/LikeLion-12th/devBreak) | A GitHub repository-based tech blog platform. |
+
 ---
 
 ## 📦 My ToolBox
