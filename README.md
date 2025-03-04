@@ -26,7 +26,7 @@
 ## 📫 Information
 - 🙂 Nickname: Suji
 - 💌 Email: sujihong93@gmail.com
-- 📒 Blog/Portfolio: https://reminiscent-bag-c75.notion.site/df578f9033a248f593c13ab5f0b97795
+- 📒 Blog/Portfolio: https://ssoozllog.notion.site/sujiblogsite
 ---
 
 Thank you for visiting my profile! 😊
